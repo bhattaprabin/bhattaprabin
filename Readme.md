@@ -6,40 +6,44 @@ I previously worked on large-scale, real-world systems in Nepal and later moved 
 
 ---
 
+## 🛠️ Technical Skills
 
-<h1># Prabin Bhatta</h1>
-<strong>Hi there, thanks for taking time to visit my profile. 👋</strong>
-<p>🕸 Website 👉 https://bhattaprabin.com.np 🕸</p>
-<p>🕸 LinkedIn 👉 https://www.linkedin.com/in/prabinbhatta/ 🕸 </p>
-<div>
-    <div align=center>
-        <img src="https://github.com/bhattaprabin/bhattaprabin/blob/Master/PrabinGitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Prabin+%F0%9F%91%8B;Computer+Engineer;Back-End+Engineer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
-    </div>
-    <div align=left>
-        <br>
-        <p>
-            <strong>
-               I have 3.5 years of experience in web development. I have worked on several projects including government projects.<br><br>
-                Because I need to travel to the UK for my Master's degree, there is a break in my working career. I therefore quit my job and moved here, however I continued to code while working on my final year project on ASP.Net, EntityFramework and SQL database as well as I am now learning Python Programming.<br><br>
-                I earned my master's degree. I'm currently searching for any programming positions to resume my career. As I can take things up quickly and pick them up quickly, and because I have relevant experience, the company I will be working with don't need to spend time and effort training me, I am certain that I can contribute value to the team.
-            </strong>
-        </p>
-        <ul>
-            <li>🌱 <b>I’m currently learning</b>: Python & Django.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://www.bhattaprabin.com.np/Prabin%20Bhatta_CV.pdf">LINK TO MY RESUME</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love doing research, Coding(💻), Traveling(🌍), and a bit Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b></li>
-        </ul>
-    </div>
-</div>
+- **Languages & Frameworks:** C#, ASP.NET MVC, ASP.NET Core, Web API, .NET Framework  
+- **Databases:** SQL Server, Oracle, Stored Procedures  
+- **Frontend:** HTML, CSS, JavaScript, jQuery  
+- **Tools & Practices:** Git, SVN, Entity Framework, Dapper, REST APIs, Agile/Scrum  
 
-------
+---
 
-Credit: [Prabin Bhatta](https://github.com/prabinBhatta)
+## 💼 Professional Experience
 
-Last edited on: 26/04/2023
+- **Full Stack .NET Developer** – 4Pix Solutions (Nepal)  
+  Worked on a government-backed earthquake housing reconstruction system, developing APIs, database logic, and core backend features. Also reviewed junior developers’ code and supported deployments.
+
+- **.NET Developer** – Percoid IT Solutions (Nepal)  
+  Contributed to CRM and content management systems, building APIs and web features under tight deadlines.
+
+---
+
+## 📚 Education
+
+- **MSc Information Systems Management** – De Montfort University, UK  
+- **BEng Computer Engineering** – Nepal  
+
+---
+
+## 📌 Projects
+
+- **Post-Earthquake Management System (PEMS)**  
+  A .NET web application developed as my MSc final project to manage post-disaster housing reconstruction.  
+  👉 [View Project Repository](https://github.com/prabin20101/PEMS_DeMontfort_Project)
+
+---
+
+## 🎯 Career Goal
+
+I am currently seeking **entry-level to mid-level Software Developer / .NET Developer roles in the UK**, where I can contribute to real-world projects and grow within a collaborative team.
+
+📫 **Contact:**  
+- Email: prabin20101@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/prabinbhatta/
