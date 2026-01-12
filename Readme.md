@@ -1,3 +1,12 @@
+# 👋 Hi, I’m Prabin Bhatta
+
+I’m a **.NET Software Developer** based in the UK with over **3 years of professional experience** building web applications using **C#, ASP.NET MVC, Web API, and SQL databases**.
+
+I previously worked on large-scale, real-world systems in Nepal and later moved to the UK to complete an **MSc in Information Systems Management**. I enjoy building clean, reliable backend systems and continuously improving my skills.
+
+---
+
+
 <h1># Prabin Bhatta</h1>
 <strong>Hi there, thanks for taking time to visit my profile. 👋</strong>
 <p>🕸 Website 👉 https://bhattaprabin.com.np 🕸</p>
